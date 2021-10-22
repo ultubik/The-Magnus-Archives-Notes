@@ -24,15 +24,29 @@ Jurgen Leitner：一个收藏书商。藏书多为超自然书籍。
 
 M
 
+Jared Hopworth：接触了一本Leitner书籍The Boneturner's Tale后发生变化，变为屠夫。
+
+Michael Crew
+
 #### Keay家族
 
 Mary Keay：Pinholes Books书店店主。Gerard的母亲。死亡。
 
 Gerard Keay：Mary的儿子。死亡。
 
-**Lukas家族**
+#### Lukas家族
 
 Evan Lukas
+
+
+
+
+
+### 其他角色
+
+Edwin Burroughs：天主教神父
+
+
 
 
 
@@ -406,6 +420,7 @@ Robert对他的女儿道歉，被赶到的警方带走了。那具尸体上戴�
 
 - Naomi从墓园带回来的一块花岗岩上刻着”Forgotten“，Jonathan Sims无法追溯其来源。
 - Naomi的声音无法被数据手段录下，只能使用老旧的磁带式录音机。
+- Lukas家族是机构的赞助来源之一。
 
 #### E14 Piecemeal
 
@@ -461,3 +476,179 @@ Robert对他的女儿道歉，被赶到的警方带走了。那具尸体上戴�
 - Laura随身带了录像机，但并没有交给档案馆。Tim试图找到了录像带，发现里面有一段无画面仅有声音的录像，重复着”take her not me“的低语，共2小时43分。
 
 P.S.Laura肯定隐瞒了什么，她的陈述很明显不全。大概是遭遇了什么，而祈求让某种东西把她的姐妹而不是她带走。
+
+#### E16 Arachnophobia
+
+##### 日期
+
+- 叙述日期：2056.04.09
+- 事件发生日期：2015年年初
+
+##### 主要角色/势力
+
+- Carlos Vittery：叙述者。
+- Major Tom：Carlos Vittery的猫。
+
+
+##### 介绍
+
+本集主要讲述了因童年阴影而极度惧怕蜘蛛的Carlos Vittery在公寓里不断出现同一只奇怪的蜘蛛后精神崩溃的故事。
+
+##### 事后调查细节
+
+- Carlos Vittery被发现供述后不久就死在公寓里，死于喉间异物（外来有机物）导致的窒息。他被发现时整个人都被包裹在蜘蛛网里。
+
+#### E17 The Boneturner's Tale
+
+##### 日期
+
+- 叙述日期：2016.04.09
+- 事件发生日期：2015年年初
+
+##### 主要角色/势力
+
+- Sebastian Adekoya：叙述者。
+- **Jared Hopworth**：Sebastian Adekoya的童年好友。
+- Ruth Weaver：Chiswick Library的图书管理员。
+- Mrs. Hopworth：Jared Hopworth的母亲。
+
+##### 特殊物品
+
+**The Boneturner's Tale**：书的内容有关坎特伯雷故事集里的朝圣，作者未知。
+
+
+##### 介绍
+
+本集主要讲述了Sebastian Adekoya在Chiswick图书馆工作时遇见的诡异事件。他在整理中发现一本贴着猜火车标签，封面却写着The Boneturner's Tale的奇怪书籍。他查询借阅资料，只发现唯一一条归还记录：**Michael Crew**。这时Jared Hopworth来了图书馆，用那本书击打Sebastian的后脑勺以作弄他。但他碰到那本书后变得奇怪。当晚，他在回家路上发现一只骨头诡异的宠物鼠在Jared家门口的马路上爬行。
+
+这之后他再也没有和Jared联系，直到某一天他的母亲拖着一只骨折的手臂，把那本The Boneturner's Tale气冲冲地甩到Sebastian面前。他小心地用手套将其放好。当晚，他潜回图书馆查看那本书，发现其周围的书籍都在流血，一个瘦高、打扮严实的陌生人闯入了图书馆，声音听上去像Jared，向他索要这本书。陌生人明显不是人类，他的手指又长又尖。
+
+他把书扔给Jared，逃出了图书馆，再也没有见过Jared和那本书。
+
+##### 事后调查细节
+
+- 这是出现的第二本来自Jurgen Leitner图书馆的书。
+- Sebastian在2006年4月17日死于一场肇事逃逸，尽管当地并没有发生事故，但他的尸体被发现时姿势非常扭曲。
+
+#### E18 The Man Upstairs
+
+##### 日期
+
+- 叙述日期：2008.12.12
+- 事件发生日期：2007.10.22
+
+##### 主要角色/势力
+
+- Christof Rudenko：叙述者。
+- Dianne/Diana：住在Christof Rudenko隔壁的老姑娘。
+- Toby Carlisle：住在Rudenko楼上，把公寓表面的每一处都锤进了一片片的肉。
+
+
+##### 介绍
+
+本集主要讲述了Christof Rudenko住在Welbeck公寓期间的诡异事件。他搬进来时就闻到了腐烂鸡肉般的味道，在居住期间也偶尔会闻到臭味。2004年7月5日，他开始听见楼上传来锤敲墙面和地板的声音，基本上每两周一次，每次约一小时。6个月后，Christof收到了一个错送至他那里的Toby的包裹，于是上楼找他，并想请他停止扰民工程，Toby应门时他很难看见里面的情况，只能看到他脏兮兮的手指甲。两年后，Christof因为天花板上的污渍再次上楼去找Toby，这次无人应答。他找来水管工，后者说不是管道问题，找来一架梯子爬上去查看情况，水管工触碰那块污渍，它像卫生纸一样皱了起来，倒出来的是夹杂着粘稠白色块状物的浓稠黄色液体。Christof上楼打开了门，看到里面除了窗户以外的地方都被一层层的肉覆盖，各种生物的肉，Toby的尸体躺在大厅中间，身上布满脓包和疮洞，眼睛已经无法分辨。Christof看到一坨放在旁边的废弃的肉看起来正在缓慢移动，然后张开了它所有的”眼睛“。但警察来了之后那堆肉就消失了。
+
+##### 事后调查细节
+
+- Toby的肉来源未知。
+
+#### E19 & E20 Confession
+
+##### 日期
+
+- 叙述日期：2011.05.30
+- 事件发生日期：神父供述过程中时间线混乱。
+
+##### 主要角色/势力
+
+**E19**
+
+- **Edwin Burroughs**： 天主教神父。叙述者。
+- Father Harrogate：一个年长的奥古斯丁会驱魔师。
+- Father Singh：在St Aldate’s教堂工作的神父。
+- Bethany O’Connor：神父Burroughs尝试驱魔的被附身的学生。
+- Anne Willett：John Radcliffe hospital的护士，在E8里曾被提及（名字不同）。
+
+**E20**
+
+- Christopher Bilham：被谋杀的学生，被发现时脸已经没了。
+- James Mann：被谋杀的学生，一部分脸已经被Burroghs神父吃掉。
+
+
+##### 介绍
+
+这两集是Edwin Burroughs神父的供述。讲述了他受神父Singh之托，试图对一个无法区分现实和虚幻的女孩Bethany O'Connor驱魔后发生的诡异事件。他在进行驱魔前发现女孩神志不清，家中的墙纸全被扯下，墙砖上写着Mentis。正当他和Singh神父准备对其进行正式驱魔时，女孩因精神失常住进了医院，他试图进行驱魔被女孩以“我很抱歉，它想要的是你的命运。”回答后，女孩抽搐并脑出血而死。
+
+几年之后，当时在医院联系他的护士Anne再次联系他，请他去给一个在翻修的房子里的建筑工做祝福（即MAG 8）他走进那座房子时感受到热量和烟的气息，却没看见火光。他祈祷给予自己保护，却听到了另一个声音回答了他。他的嘴不受控制地说出"I am not for you. I am marked."。接着热度消失，大树被连根拔起，他急忙离开了。
+
+他相信是Bethany身上的未知力量控制了他的言语，他一尝试祈祷就会难以呼吸。他找出圣经以给自己安慰，可他想念路加福音时，念出的却是创世纪中该隐被驱逐时说的话：Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.（你如今赶逐我离开这地，以致不见你面。我必流离飘荡在地上，凡遇见我的必杀我。）
+
+后来他决定去找Singh神父，在路上感受到现实开始扭曲。他在一个小教堂里找到了Singh神父，却在交谈中发现那根本不是他。一路跌撞中现实越来越扭曲而不可信，最后，有一个从小礼拜堂里出来的男人告诉他是时候去布道了。礼拜堂里所有的十字架和雕像都被移走，每个教众都脸色蜡黄，眼神空洞，笑容奇怪。他穿上祭衣室里病态发白的黄色披肩，布道过程中，他想要念马可福音九章14-19节，从嘴里传出的却只有钟声。
+
+布道结束后，他去领圣餐，黄铜盒子外的盖布不知为何卡住了。当他好不容易打开盒子，开始吃圣饼时，才发现那是人类的血肉。
+
+最后他决定不再相信现实，什么也不去做，等待警察的来临。他被关押后，他在教会的同事前来探望，可他从他们口中听见的只有无尽的钟声。
+
+##### 事后调查细节
+
+- Jonathan录制这两篇供述时，Martin还在请病假。
+- 这份供述不知是被谁查看时分开的。
+- Bethany其实住在校内宿舍而非校外，她入院前声称的袭击了舍友实际上是袭击了一个门卫。89 Bullingdon Road当年并未有人入住。
+- Edwin被找到时，正在89 Bullingdon Road的某间后房，身着一身屠夫的围裙，面前摆着Christopher Billham和James Man死于失血过多的尸体。两人的脸都被割下，James的脸的一部分被Edwin吃掉了。
+- Edwin并未在供述中承认自己绑架或杀死了学生，用来杀死和切割他们的工具未在案发现场被找到。推测可能和礼拜堂里提供圣餐的祭台服务员有关。
+- 礼拜堂不是谋杀现场，但他们得到了埃德温描述的淡黄色披肩，在送到他们手中不到一天后就消失了。这件披肩是由 **Breekon & Hope Deliveries** 公司提供的。
+
+### E21-E40
+
+
+#### E21 Freefall
+
+##### 日期
+
+- 叙述日期：2002.10.20
+- 事件发生日期：2002.06.03或05或07
+
+##### 主要角色/势力
+
+- Moira Kelly：叙述者。
+- Robert Kelly：Moira Kelly的儿子。失踪。
+- Stephen Kelly：Moira Kelly的丈夫。已去世。
+- **Simon**：为纪念其妻而做慈善双人特技跳伞的老人。
+- Harriet Fairchild：Robert Kelly的特技跳伞指导师同事。
+- Joseph Puce：在农田里找到一包未打开的降落伞的农夫。
+
+
+##### 介绍
+
+这集讲述了Moira Kelly的儿子Robert Kelly在一家名为"Open Skydiving"做特技跳伞指导员遭遇的诡异事件。她的儿子在一次参与为纪念其妻而做慈善双人特技跳伞的老人Simon的跳伞时，被老人说了一句“enjoy sky blue”后在下落过程中发现身下的并非地面而是天空，这之后退出了该事业。某天Moira和儿子去爬山以缓解他最近的精神紧张和恐高，但当他们爬到山顶时，Robert被扭曲的天空吞噬。
+
+##### 事后调查细节
+
+- Open Skydiving公司根本没有注册在案。
+- 这份供述不知是被谁查看时分开的。
+- 2002.06.03那天一个农夫Joseph Puce听到一声撞击后，在自己的农场发现了一个未打开的降落伞包。
+-  Jonathan推测**Simon Fairchild**就是那个老人，但是个假名。还没来得及说理由就被闯进来的Martin打断了。
+
+#### E22 Colony
+
+##### 日期
+
+- 叙述日期：2002.10.20
+- 事件发生日期：2002.06.03或05或07
+
+##### 主要角色/势力
+
+- Martin Blackwood：叙述者。
+- Yasir Kundi：Carlos Vittery所住大楼的业主。
+
+
+##### 介绍
+
+这集讲述了Martin Blackwood在调查Carlos Vittery一案（\#0150409 MAG 16）时遇到的诡异事件。他先去了他的旧公寓，然后在他的新公寓里遭遇了Jane Prentiss。她的身上的孔洞中会吐出很多银色的小蠕虫。
+
+Jane追踪Martin到了其公寓，Martin被困在公寓里很久，无法联系外界。期间Jane操控了他的手机给Jonathan发消息请病假。直到Martin确认Jane不在屋外后才逃来机构并暂时借住在安全屋里。
+
+##### 事后调查细节
+
+- Martin逃来后，Jonathan的手机收到了他发来的短信："Keep him, we have had our fun. He will want to see it when the Archivist's crimson fate arrives."
+
