@@ -652,3 +652,72 @@ Jane追踪Martin到了其公寓，Martin被困在公寓里很久，无法联系�
 
 - Martin逃来后，Jonathan的手机收到了他发来的短信："Keep him, we have had our fun. He will want to see it when the Archivist's crimson fate arrives."
 
+
+
+### E41 - 60
+
+#### E49 Colony
+
+##### 日期
+
+- 叙述日期：2008.03.11
+- 事件发生日期：2007.06
+
+##### 主要角色/势力
+
+- Gregory Pryor：叙述者。
+- Nicola Laredo：Hector Laredo的妻子。
+- Hector Laredo：Nicola Laredo的丈夫。
+- **Jared Hopworth**：塑骨匠，初登场于 Ep17。
+- Harry Gough：肉铺的店主。
+- James Wright：Magnus机构的前主管。
+
+
+##### 介绍
+
+私家侦探Gregory Pryor受Hector Laredo的妻子Nicholas之托调查她丈夫的出轨，却意外发现她丈夫在帮乌克兰黑帮运送推测是毒品的白色砖块。某一天，Hector弄丢了货物，被接头人要求去找Jared，此后再也没有回家。Gregory将一切告诉了Nicholas，被委托去寻找她丈夫已死的证据，于是Gregory前往纸条上的地址，发现是家关着门的肉铺。他进入到后厨，发现处理台上躺着看上去像死了的Hector，正欲离开时Jared回来了，情急之下，Gregory只好躲入柜中。在柜中，他见证了Jared如何直接伸手将Hector（还活着）的骨头从他体内取出，扭曲，然后撬开地板，喂进一个长满尖牙的喉咙样深坑。他在Jared取骨后肢解Hector的工作完成，开始打盹时试图逃离，刚踏出大门时被发现的Jared扯住了他的一只手臂，把他的手臂骨头扯了出来。
+
+警方调查该肉铺，没有找到深坑或是Hector的尸体，在他躲藏的柜子里发现了14件衣服，其中有5件符合失踪人口记录，并发现了前店主的尸体。
+
+##### 事后调查细节
+
+- Jared应该就是之前接触了The Boneturner Tale那本书的Jared Hopworth。
+- Gregory在2013年移民去了新西兰。
+- Not-Sasha (acting as Sasha James) is unable to use her usual technical skills to gain access to the police reports, supposedly because her computer has broken down. Tim used his connections (romantic involvements with two staff members in the police office: one of the young ladies in one shift and the man who manages the other one) to get a copy of the police records, which explains that clothing belonging to at least 14 people was recovered from the butcher's shop, including 5 missing persons. There was nothing under the floor except the body of Harry Gough, the owner of the establishment who has been dead for 6 months. 
+- Jared Hopworth仍在逃。
+
+
+
+#### E50 Colony
+
+##### 日期
+
+- 叙述日期：2002.10.20
+- 事件发生日期：2
+
+##### 主要角色/势力
+
+- Sampson Kempthorne：叙述者。
+
+- George Gilbert Scott：建筑师。
+
+  [^注]: 乔治·吉尔伯特·斯科特爵士（1811年7月13日- 1878年3月27日），是一位多产的英国哥特式复兴建筑师，主要参与教堂和大教堂的设计建设和装修，他设计或改造了超过800栋建筑。
+
+- Marianne Kempthorne：Sampson Kempthorne的妻子。
+
+- Henry Roberts：建筑师，受训于Robert Smirke。
+
+- Robert Smirke：19世纪的建筑师，在E26和E41被提及过。
+
+- William Bonython Moffatt：建筑商。
+
+
+##### 介绍
+
+本集有关于Sampson Kempthorne在招收了一个名为George Gilbert Scott的助手后发生的诡异事件。他受训于Robert Smirke，被同样受训于Smirke的Henry Roberts，Sampson的朋友推荐而来。据Sampson回忆，当时他们正在修建劳改所，而George经常会长时间盯着草图，一言不发，又突然灵感来临般带着草图躲进屋里，在里面叫喊、发狂般地设计。他的设计极尽对称，并为此压缩了很多空间，因此难以使用。George因为父亲的离世，退出Sampson的建筑所后，另起炉灶，并抢走了一些劳改所的项目。一天晚上，Sampson正在工作，突然听见脚步声、拐杖声和钥匙的声音。他突然感到极度恐惧，整间屋子似乎全都向他挤压而来，让他无法呼吸、动弹不得。等到那阵压力终于消失，他鼓起勇气冲出去，只见一个手持拐杖，黑帽灰发的矮壮男人走进了职员办公室，他追上去，却发现里面空无一人。只有一张George的手稿在桌后。
+
+他拿着手稿去找George，看见他正在和一个工人说话，后者一直在提起一个带着一串钥匙的“the Governor”称他的同伴Harry非常懒散，并指向一面墙，上面非常平滑，然而有四根指尖从里面伸出。
+
+##### 事后调查细节
+
+- Jonathan试图查阅Robert Smirke的相关信息，但一无所获。Henry Robert曾经和George在Fishmonger's Hall工作过，那个地方似乎有点闹鬼。以及George设计过的建筑有Pancras Station, Albert Memorial, and the restoration of Westminster Abbey。
