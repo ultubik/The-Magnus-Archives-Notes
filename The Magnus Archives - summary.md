@@ -721,3 +721,42 @@ Jane追踪Martin到了其公寓，Martin被困在公寓里很久，无法联系�
 ##### 事后调查细节
 
 - Jonathan试图查阅Robert Smirke的相关信息，但一无所获。Henry Robert曾经和George在Fishmonger's Hall工作过，那个地方似乎有点闹鬼。以及George设计过的建筑有Pancras Station, Albert Memorial, and the restoration of Westminster Abbey。
+
+
+
+#### E51 High Pressure
+
+##### 日期
+
+- 叙述日期：2008.01.07
+- 事件发生日期：2006.08
+
+##### 主要角色/势力
+
+- Antonia Haley：叙述者。
+
+- Morten Kemp：打捞队的船长。
+
+- **Simon Fairchild**：在E21出现过的老人。
+
+- Julio Hernandez：潜水员。
+
+- **Sasha James (?)**：档案助理。
+
+- [^注]: 乔治·吉尔伯特·斯科特爵士（1811年7月13日- 1878年3月27日），是一位多产的英国哥特式复兴建筑师，主要参与教堂和大教堂的设计建设和装修，他设计或改造了超过800栋建筑。
+
+  
+
+
+##### 介绍
+
+本集有关于Antonia Haley随当时工作的打捞团队为一个老人Simon Fairchild在一处著名的船只失事处Sable Island附近打捞其祖父Maria Fairchild的沉船上的珍宝时发生的诡异事件。Antonia和另一个潜水员Julio Hernandez共同下水，在过程中Antonia发现水底没有半点生命的迹象。他们在找到船只后分头进行搜寻。Julio在卧室检查，而Antonia在引擎室发现船体上有个似乎从里面凿出来的洞。她伸过脑袋去看，高压立刻压上了她的身体，几乎杀掉她。她在洞中看不见海底，只能看见无尽的、昏暗的海水，如同在twilight zone（人类潜水员能到达的最深处，在那里光线昏暗，压力巨大，甚至难以分清上下）她在昏暗中看到一个巨大的黑影，无边无际，仿若一只缓慢接近的巨手。
+
+最终她挣脱了束缚她的压力，离开了洞中，拼命想升回水面，昏迷后被救起。船长在她问起这个任务和Simon时只是回答：“The sea is a dangerous place."
+
+##### 事后调查细节
+
+-  Jonathan说在他2012年刚成为一个研究员不久时接触过设计Simon Fairchild的案子。那是一起Hackney的诡异事件，有人报告说ta的首饰盒半夜碎了，好像有什么很重的东西压过。
+- 在1930s，珠宝盒属于一个艺术品伪造犯，最后被愤怒的顾客从4楼扔下，却神秘失踪。他的生意伙伴中有Simon Fairchild。Fairchild家族是一个来自Cornwall的富裕家族，主要投资航天航空科技、航运物流、水下钻探和建造等方面。
+- Johnathan发现那个假扮Sasha的生物表现出对MAG 35（Graham案件）的桌子的异常兴趣。有时候会在午休时前往Madame Tussaud's wax museum。
+- 他统计了档案馆收到的新的三样异常物品：一个光线无法穿透的衣柜、一块丝绒包着的能干扰监控的石刻眼睛、一个无法消毒、沾满病菌的手术刀。
