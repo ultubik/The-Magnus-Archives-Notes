@@ -141,11 +141,19 @@ Amy最后一次见到他，发现他的窗户上爬进了触手状的东西，�
 ##### 主要角色/势力
 
 - Dominic Swain：叙述者。
+
 - Katherine Mendes：Dominic Swain的朋友。
+
 - **Jurgen Leitner**：一个挪威的书籍收藏者，藏品常常是超自然书籍。
-- MacGregor Mathers：和Leitner共同拥有《所罗门的钥匙》的另一位收藏者。（P.S.就是金色黎明创始人……）
+
+- MacGregor Mathers：和Leitner共同拥有《所罗门的钥匙》的另一位收藏者。
+
+  [^MacGregor Mathers]: 神秘学家。金色黎明创始人之一。（本人之前找所罗门的钥匙的时候已经看到这个名字太多次了……）
+
 - **Mary Keay**：Pinhole Books书店的店主，Gerard Keay的母亲。
+
 - **Gerard Keay**：一个哥特打扮的年轻人，从Dominic手中买了Ex Altiora后烧了它。
+
 - **Michael Crew**：Dominic的童年玩伴，8岁时因为Dominic被闪电击中，从此身上留下了Lichtenberg figure
 
 ##### 特殊物品
@@ -234,13 +242,17 @@ Amy最后一次见到他，发现他的窗户上爬进了触手状的东西，�
 
 在医院里，Wilfred告诉他自己亲眼遇到了战争，它长着三张面孔，一张脸用来吹奏它的骨笛，一张脸用来发出垂死的尖叫，另一张脸从不张口，一张口就会呕出鲜血和湿土。手用来吹笛、拿着各种各样的武器、敬礼。它穿着橄榄绿的羊毛外套，其下的皮肤布满烧伤和疤痕。
 
-P.S.很美的一篇……但并非完全没有联系。关于骨笛，后面的档案中会提到一本书，书中的主角是一个诡异的吹笛人，用人的骨头做笛子。
+##### 评论&猜想
+
+很美的一篇……但并非完全没有联系。关于骨笛，后面的档案中会提到一本书，书中的主角是一个诡异的吹笛人，用人的骨头做笛子。
 
 ##### 事后调查细节
 
 - Jonathan感觉Joseph Rayner这个名字似曾相识。
 
-P.S.另外，这篇里面出现的神父和People's Church of the Divine Host创始人同名。
+##### 评论&猜想
+
+这篇里面出现的神父和People's Church of the Divine Host创始人同名。
 
 #### E8 Burned Out
 
@@ -475,7 +487,9 @@ Robert对他的女儿道歉，被赶到的警方带走了。那具尸体上戴�
 - Laura在Death's Head Hole的底部被发现，被发现时跪在一小堆燃尽的蜡烛旁。
 - Laura随身带了录像机，但并没有交给档案馆。Tim试图找到了录像带，发现里面有一段无画面仅有声音的录像，重复着”take her not me“的低语，共2小时43分。
 
-P.S.Laura肯定隐瞒了什么，她的陈述很明显不全。大概是遭遇了什么，而祈求让某种东西把她的姐妹而不是她带走。
+##### 评论&猜想
+
+Laura肯定隐瞒了什么，她的陈述很明显不全。大概是遭遇了什么，而祈求让某种东西把她的姐妹而不是她带走。
 
 #### E16 Arachnophobia
 
@@ -654,6 +668,242 @@ Jane追踪Martin到了其公寓，Martin被困在公寓里很久，无法联系�
 
 
 
+#### E23 Schwartzwald
+
+##### 日期
+
+- 叙述日期：1813.03.31
+- 事件发生日期：1815年冬天
+
+##### 主要角色/势力
+
+- **Albrecht von Closen**：叙述者。
+- **Jonah Magnus**：Magnus机构创始人。
+- Wolfgang：Albrecht von Closen的熟人。
+- Henrik：Albrecht von Closen的兄弟。
+- Wilhelm von Closen：Albrecht von Closen的侄子。
+- Clara/Carla von Closen：Albrecht von Closen的妻子。
+- Johann von Württemberg：Albrecht von Closen找到的陵墓上的名字。
+- Hilda/Helga：Wilhelm的庄园里的女仆。
+- Tobias Kohler：Schramberg的一位记得 Johann von Württemberg的坟墓的老人。
+- Hans Winkler：Tobias Kohler的童年好友。
+- Ulrich I or II：历史人物，也许是Johann von Württemberg的生父。
+- Jan Moira：*Cradle of Germany – Württemberg through the Centuries*的作者。
+- H.T. Moncreef：*Grim Tales*作者。
+- Rudolph Ziegler：Wilhelm的庄园的男仆。
+- Elsa：Wilhelm的后代。
+- Michael Keay：Elsa的丈夫。
+
+
+##### 介绍
+
+这集讲述了Albrecht von Closen在Magnus机构创始人Jonah Magnus前来拜访时与他分享的一起诡异事件。Albrecht的侄子Wilhelm在14岁时就丧父，Albrecht和妻子Clara很关心他，因此当他在1815年的冬天身体抱恙时，他们二人动身前去探望他。他们抵达庄园后，发现Wilhelm正在缓慢康复，因此决定在这里度过冬天。Albrecht在此期间常常去散步，在其中一次散步中，他在离最近的小镇也十分遥远的郊外找到了一个深埋在雪中的古老坟墓，上面刻着Johann von Württemberg的名字。Albrecht并不认识这个名字。
+
+晚餐上他问起，Wihelm说他也不认识这个名字。第二天Albrecht又回到那个墓园，在那里遇到了一个穿着老式长大衣和到膝盖处的马裤，戴着一顶宽大的帽子的男人。这个男人用乡下口音的德语问Albrecht是不是要探访这个墓园。Albrecht给了肯定的回答，男人接着说他对死亡没有恐惧。Albrecht一个转身的时间男人就消失了。
+
+【在这阵子Martin打断了Jonathan的录音。他先是道歉，然后说他最近会早点进来，因为他不想在晚上才离开。这离他碰到Jane Prentiss已经有一周了，而且也没有任何她的迹象。】
+
+Albrecht进入墓园的房间时，在中间看到了一块大理石板，下面遮着一道楼梯，他走下楼梯，穿过一个走廊后进入了一个和上面的房间相似的房间，但是中间的大理石板上是一个封死的石棺，上面刻着Johann的名字。整间屋子被大理石书架包围，上面的书摆放紧密，潮湿而腐烂。在那些书架的边缘上以整齐的间隔刻着一个小小的眼睛，在注视着他。接着，Albrecht在角落里找到了一枚古老的硬币——正面刻着“JW”和一个长发的男子，与年份“1279”，背面刻着"Für die Stille" ("for the silence") ——和一本状况良好、似乎是以阿拉伯文写成的书，看起来是一本带插图的手稿。
+
+晚上，在睡前一个女仆问他是不是去了墓地。她面色苍白地告诉他从Tobias Kohler处听来的故事。当Tobias还小时，经常会玩一个叫Johann's Steps的游戏，就是走下墓园房间的台阶，直到”被发现“，然后迅速地跑回来。Tobias也不知道是被谁发现。父母们不许他们玩这个游戏。Tobias的一个童年朋友Hans Winkler的母亲决定结束孩子们的冒险闹剧，冲进墓地，正好看见轮到Hans进入坟墓，她便追着他跑下了楼梯。孩子们只听到里面传来尖叫声，急忙跑去找牧师，牧师听说了，只是点点头，然后召集了六个强壮的男人走进坟墓。最后没人知道发生了什么，从此Hans去和Becker一家生活了，再也没有人玩过这个游戏。最终墓园被废弃了。
+
+Albrecht听了这个故事的三天后，他因为迷信，把硬币和书都收了起来，决定在太阳下散散步。他又走到了墓园附近，发现自己前几天来到此处时通往坟墓的足迹旁，除了自己的两副足迹外，有第三副足迹从坟墓出来，去往庄园的方向。这时他感受到背后有人，转过身去，看见是那天的那个男人。他没戴帽子，露出秃头，而在他的眼睛处，只有两个深深的洞，然而那个男人看见了他。男人慢慢接近Albrecht，但却又突然好似听见了一个枪声般抬起头，犹豫着，然后消失了。
+
+这之后Albrecht火速收拾东西回家，但是在回程时弄丢了硬币，只剩下书。
+
+##### 事后调查细节
+
+- 在Jan Moira的"Cradle of Germany - Württemberg through the Centuries"书中曾提及Johann，他在谣传中是Württemberg伯爵Ulrich I生于1255年的第二个儿子。而1279年就是Ulrich II去世的日子，这之后他的同父异母或同母异父的兄弟Eberhard I继任。
+- 在"Grim Tales"（关于十九世纪欧洲的异常死亡事件）中，一个名为Rudolf Ziegler于1816年死于Schramberg。Wilhelm因此被调查，但最终证实死者的伤口超越了人类暴力所能造成的程度，最终死因被归于动物袭击。
+- Jonathan找到了Wilhelm von Closen的家谱，发现其后代在1908移民到了英国，他的女儿Elsa在1920年嫁给了Michael Keay，1924年，他们的女儿**Mary Keay**出生。
+
+##### 评论&猜想
+
+整理时才发现这集信息量好大。所以依据目前的整理情况可以知道：
+
+1. Magnus机构的创始人是Jonah Magnus。但在后面有关亚历山大城的那篇档案中，Gertrude的话暗示了档案馆至少自古埃及时期就存在。也就是说可能Magnus机构只是档案馆在如今的附属，就像它此前附属于塞拉皮神庙一样。
+2. Wilhelm von Closen的外孙女Mary Keay就是之前出现的Pinholes书店的老板，Gerard的母亲。创始人Jonah的关系网肯定十分复杂，创立Magnus机构也是有其原因，也许就是为了保护档案馆。
+
+#### E24 Strange Music
+
+##### 日期
+
+- 叙述日期：2005.01.17
+- 事件发生日期：2004.08
+
+##### 主要角色/势力
+
+- Leanne Denikin：叙述者。
+- Joshua Drury：Leanne Denikin的伴侣。
+- Nikolai Denikin：Leanne Denikin的祖父。
+- Mrs. Irene Harlow：Leanne Denikin的邻居。
+- Harold Silvana：MAG 35的叙述者，被简单提到。（John询问Sasha有没有拿到这个档案的警方记录）
+- Gregory Petry’：*Freaks and Followers: Circuses in the 1940s*的作者。
+- **Gregor Orsinov**：Another Circus的马戏团指挥。出现在一张1948年的旧照片中。
+
+
+##### 介绍
+
+这集讲述了Leanne Denikin在祖父Nikolai Denikin留下的屋子阁楼中的蒸汽风琴里发现的诡异玩偶。
+
+屋子的阁楼便一直锁着，但Leanne在搬入时为了把箱子放上去，就打开了锁。在那里她找到了一架亮红色的蒸汽风琴和一个皮箱，里面放着23个玩偶，其中的22个的下巴被摘掉了，另外一个是个非常老旧的小丑玩偶，没有头发，戴着一顶尖帽，画着红色的笑容。蒸汽风琴上有块刻着"The Calliophone"的铜牌，它的外壳上刻着”Be still, for there is strange music.“。
+
+【John被Sasha打断，纠正他关于calliope的发音（哈哈哈）】
+
+Lenne弹了一首祖父教她的曲子，发现之前关着的皮箱打开了，而小丑坐在上面。而且在这之后她发现，她根本没有装风箱，按理说是演奏不出声音的。她叫来她的伴侣Josh，但他看起来对小丑玩偶很不安。
+
+在这之后，Josh经常能幻听到风琴演奏的音乐，越来越近，最后，他和Leanne分手了。
+
+后来的某天，她把一些箱子搬上阁楼时发现小丑又从皮箱里出来了，这次的姿势是正在接近一个看起来和Josh一模一样的玩偶。于是她给皮箱上了锁。
+
+一周之后，她回到房子，发现有人闯入，偷走了风琴和皮箱。邻居称有两个男人把风琴拆开后一点点搬走了它，这之后风琴再也没有被找到。
+
+4天之后Josh被发现死在房间里，喉咙被厚羊毛绳勒断，下巴被撕掉并且失踪。
+
+##### 事后调查细节
+
+- Josh的死亡现场没有找到任何DNA证据。
+- Tim说那个风琴让他想起20世纪早期在波兰和俄罗斯周游的马戏团。在Freaks and Followers一书的第43页，John找到了一张摄于1948年的俄罗斯明斯克的黑白相片：一个柔术演员，两个壮汉，一个吞火表演者，一个马戏团指挥和一个风琴手。风琴手和指挥的名字分别是 Nikolai Denikin和**Gregor Orsinov**，马戏团的名字是 **другой Цирк** ('Drugoy Tsirk', or 'Another Circus') 。John立刻有所警觉。
+- 这台风琴目前被保管在Magnus机构的人造物仓库。Elias也不知道它是怎么来的，只知道2007年被保管于此。
+
+
+
+#### E25 Growing Dark
+
+##### 日期
+
+- 叙述日期：2015.04.19
+- 事件发生日期：2015.01-2015.03.11
+
+##### 主要角色/势力
+
+- Mark Bilham：叙述者。
+- Katherine “Kathy” Harper：Mark Bilham的女友。
+- **Natalie Ennis**：Kathy的室友。
+- Mr. Pitch：被Natalie Ennis提及。
+
+
+##### 介绍
+
+这集讲述了Mark Bilham的女友Katherine Harper和室友Natalie Ennis合租时的诡异事件。
+
+Natalie原本是个虔诚的教徒，但10月末的时候她的母亲去世，这之后她变得内向，失去了信仰。几个月后她找到了新的宗教信仰，变得更内向，经常无视Kathy和Mark。她时常在新的教堂中度过，有几天在家中的时光里，一直在用外语整夜唱歌。而她不在家的时候，Kathy也能从她的房间里听到动静。
+
+此外，房子里的灯泡总是坏掉，每次Mark检查都发现是Natalie拧松了灯丝。
+
+一天晚上，Natalie请Kathy吃她做的晚餐：一碗冷掉的焦糊的菠菜，然后告诉她自己要搬去新的家庭。她还说，要等待300年很漫长，但她很幸运能够知道终结即将到来，他们很快就会被Pitch先生收集。不过如果Kathy也加入他们，就能得救。
+
+Kathy以为她说的是一种基督教派，拒绝了她。但Natalie疯狂大笑，并说"no, but you're a natural for them. You're worshipping as we speak." Kathy吓得逃去找Mark。
+
+Mark决定去找Natalie讨个说法。他来到房子，走进Natalie的房间，所有的家具、墙纸和地毯都被堆到窗边挡住光线，他在里面找到一张纸，上面写着 "Hither Green Dissenters"，另一面画着一条被四条直线围绕的曲线，看起来就像只紧闭的眼。
+
+后来，Mark查到在Lewisham有个坟墓的主人名字叫Hither Green Dissenters。他前往那里，找到一个破旧的小教堂。在探索时他的手电灭了，在找电池时他意识到地板突然变得冰冷光滑，上面的垃圾都消失了。这时一首外语的歌谣响起，好像有很多人在合唱，听起来像"Ny-Ålesund"。他朝前走去，想摸到墙壁，却发现怎么也走不到边界，直到碰到一个金属的格栅。当他移开手时感受到了皮革般的手指抓住了他。声音渐强，他才想起可以开手机，打开手机后借着光芒，发现自己还在那个小教堂里。
+
+##### 事后调查细节
+
+- Natalie自那以后一直处于失踪状态。
+- 眼睛的图样听起来像**the People's Church of the Divine Host**，这让Jonathan认为这个教堂现在依然存在。
+- Mark听到的词语可能是世界上最北部的主要定居点"Ny-Ålesund"，目前属于**Outer Bay**海运公司（P.S.这是个虚构的公司）。
+- Martin找到了一份警方报告，称2015.05.15有报警称11pm左右小教堂里无故传来尖叫声。那天是Gertrude死亡的日子。
+
+##### 评论&猜想
+
+1. 所以可以知道**the People's Church of the Divine Host**教会和眼睛那方势力有关，但为什么这里的图样的眼睛是紧闭的呢？如果说睁开的眼睛代表知识、全知，那么紧闭的眼睛代表什么？愚昧者？无知者？
+
+
+
+#### E26 A Distortion
+
+##### 日期
+
+- 叙述日期：2016.04.16
+- 事件发生日期：2016.03.31、2016.04.01
+
+##### 主要角色/势力
+
+- **Sasha James**：叙述者，档案馆工作人员。
+- **Robert Smirke**：被简要提及，Timothy Stoker执着于的一个19世纪的建筑师。
+- **Michael**：超自然实体，带Sasha James找到了Timothy Hodge。
+- Timothy Hodge：MAG 6的叙述者（P.S.和被Jane感染的学生419后失踪那个）。
+
+
+##### 介绍
+
+这集讲述了Sasha James（who 完全不care地踩过一大堆虫子走进机构来上班并做陈述，while Martin还在被吓得瑟瑟发抖）遇见的一个超自然实体Michael后发生的诡异事件。
+
+Sasha在16年3月31日离开公寓时，从楼梯扭曲的玻璃上看到了一个扭曲的、好像没有骨头一般、拥有巨大而尖锐的手的人影，在街上注视着她。而当她从平整的玻璃上看去时那是一个有着长长的金发的男人在买百合花。
+
+她走去维多利亚火车站乘车上班时在一家咖啡店里看到了同一个男人。下班后，她又看到那个男人坐在咖啡店里面。他邀请她进来坐坐。Sasha问男人是什么，他说那不重要，但可以叫他Michael。他说他想帮忙，还说Sasha根本不知道发生了什么。他说他不在乎她的同事会不会死掉，但他想做个朋友。他把手放在Sasha的身上，沉重而尖锐得诡异。Sasha离开时被Michael叫住，问她想不想救John、Tim和Martin，他会在Hanwell墓园等她。
+
+第二天晚上，她去了坟墓，Michael领她进到了Azalea Close的居民区，最终停在了一个已废弃的酒吧外。进去后她发现一个男人全身都是扭动着的银色虫子，地板上也全是虫子。她拿灭火器杀死了虫子，又对着男人一通乱喷，直到他停止动弹后Sasha从他的口袋里找到一本驾照，写着他就是**Timothy Hodge**。Michael帮她抓走了一只爬进她皮肤的虫子。
+
+这之后她的记忆就模糊了。
+
+##### 事后调查细节
+
+- Timothy和**Harriet Lee**被感染的方式不同。
+- Sasha请了几天假。
+
+##### 评论&猜想
+
+1. 这是Michael Crew第一次出现！所以他的人类形体是个有着长金发的男人，这听起来怎么有点像那个Not-Graham。
+
+
+
+#### E27 A Sturdy Lock
+
+##### 日期
+
+- 叙述日期：2003.08.24
+- 事件发生日期：2003.07
+
+##### 主要角色/势力
+
+- Paul McKenzie：叙述者。
+- Marcus McKenzie, Paul McKenzie的儿子。
+- Diane：Paul McKenzie的妻子，已去世。
+- Sarah Carpenter：机构以前的研究员。
+
+
+##### 介绍
+
+这集讲述了独居老人Paul McKenzie卧室的门把手总是在半夜抖动，好像有人在外面要进来。事件第一次出现的时候，他走过去抓着门把手，直到停下后发现手上湿湿的不是汗而是血。这之后他把门给锁上了，第二天晚上同样的事情再次发生。接下来的一个月里这种事情常常出现，但每当他儿子在时就不会。Paul想录下来，但却什么都录不到，除了几帧里可以看到墙上的阴影像张嘲笑的、尖叫的脸。
+
+##### 事后调查细节
+
+- Paul在陈述的两个月后死于中风。
+- 他的儿子Marcus说自己做过陈述了。
+- 机构的前研究院Sarah Carpenter在调查房子时留下来过夜，但并未找到任何证据。但是在她提供的照片里，房子的门上并没有锁。
+
+
+
+#### E28 Skintight
+
+##### 日期
+
+- 叙述日期：2003.08.24
+- 事件发生日期：2003.07
+
+##### 主要角色/势力
+
+- Melanie King：叙述者。
+- Andy Caine：Ghost Hunt UK的另一位主持人。
+- Peter Warhol：音响师。
+- Antonia “Toni” Farron：摄像。
+- Georgie Barker： “What The Ghost?” 播客主持人。
+- **Sarah Baldwin**：临时音响工程师，MAG 1里的失踪者之一。
+
+
+##### 介绍
+
+这集讲述了独居老人Paul McKenzie卧室的门把手总是在半夜抖动，好像有人在外面要进来。事件第一次出现的时候，他走过去抓着门把手，直到停下后发现手上湿湿的不是汗而是血。这之后他把门给锁上了，第二天晚上同样的事情再次发生。接下来的一个月里这种事情常常出现，但每当他儿子在时就不会。Paul想录下来，但却什么都录不到，除了几帧里可以看到墙上的阴影像张嘲笑的、尖叫的脸。
+
+##### 事后调查细节
+
+- Paul在陈述的两个月后死于中风。
+- 他的儿子Marcus说自己做过陈述了。
+- 机构的前研究院Sarah Carpenter在调查房子时留下来过夜，但并未找到任何证据。但是在她提供的照片里，房子的门上并没有锁。
+
 ### E41 - 60
 
 #### E49 Colony
@@ -755,7 +1005,7 @@ Jane追踪Martin到了其公寓，Martin被困在公寓里很久，无法联系�
 
 -  Jonathan说在他2012年刚成为一个研究员不久时接触过设计Simon Fairchild的案子。那是一起Hackney的诡异事件，有人报告说ta的首饰盒半夜碎了，好像有什么很重的东西压过。
 - 在1930s，珠宝盒属于一个艺术品伪造犯，最后被愤怒的顾客从4楼扔下，却神秘失踪。他的生意伙伴中有Simon Fairchild。Fairchild家族是一个来自Cornwall的富裕家族，主要投资航天航空科技、航运物流、水下钻探和建造等方面。
-- Johnathan发现那个假扮Sasha的生物表现出对MAG 35（Graham案件）的桌子的异常兴趣。有时候会在午休时前往Madame Tussaud's wax museum。
+- Johnathan发现那个假扮Sasha的生物表现出对MAG 3（Graham案件）的桌子的异常兴趣。有时候会在午休时前往Madame Tussaud's wax museum。
 - 他统计了档案馆收到的新的三样异常物品：一个光线无法穿透的衣柜、一块丝绒包着的能干扰监控的石刻眼睛、一个无法消毒、沾满病菌的手术刀。
 
 
@@ -851,29 +1101,101 @@ Phillip在此事后被辞退，而Peter在灯光回来的2小时后立刻主动�
 
 ##### 日期
 
-- 叙述日期：2008.01.07
-- 事件发生日期：2006.08
+- 叙述日期：2013.06.23
+- 事件发生日期：未知
 
 ##### 主要角色/势力
 
-- Sergeant Walter Heller：叙述者。
-- Gertrude Robinson：前档案主管。
-- Frances Heller：Walter的兄弟。
-- Frank Malloy：坦克指挥官。
-- Ralph McCulloch：坦克驾驶员。
-- Dicky：坦克上的装弹员。
+- Alexander Scaplehorn：叙述者。
+- **Daniel Rawlings**：the Trophy Room的店主。
+- **Breekon & Hope**：货运司机。
 
 
 ##### 介绍
 
-本集有关于Sergeant Walter Heller在二战期间，遇袭后回到埃及的亚历山大城治疗，期间在漫游城市时发现的诡异地点。
+本集有关于税务局工作人员Alexander Scaplehorn在调查Barnet的Woodside Park附近的一家动物标本店the Trophy Room是否有洗钱嫌疑时发生的诡异事件。他被店主Daniel Rawlings迎接，当他走进店中，能感受到无生机的标本围绕自己所带来的恐惧，同时还有一阵腐烂百合花的恶臭。Daniel自称从父亲的一个过世了的朋友手中继承了这家店，他在谈话中经常抽烟，每当一支烟结束，那阵恶臭就会再度袭来，并且，Alexander还发现Daniel从不直视他。
 
-他先是在庞贝柱
+当Alexander说要查看他的账本时，Daniel把他带到了一个挂满毛皮（据Daniel说，都是些非常珍贵而古老的毛皮标本）的后屋。他的检查进行到打烊时间时，Breekon & Hope前来卸货，Daniel的脸色变得苍白而平板，然后去迎接货物，将Alex独自留在屋内。这时他听见地板地下传来模糊而呆板的声音，当他打开一个通向地下的小门，看到一张轻微摇晃着的模糊的打脸，机械地重复着“We've got one down here, come on, I'll show you.”
 
-[^庞贝柱]: 在埃及的亚历山大城内，又称骑士之柱。是一根高达27米的粉红色亚斯文花岗岩石柱，建于公元一世纪左右的罗马皇帝戴克里先时期。
-
-附近意外跌入一个地下室，在那里看到一个下水管道口，里面有个苍白的物体一闪而过。他打开格栅，爬了下去，发现里面是几个相连的、存放着许多纸莎草书卷的房间。他在其中一个房间发现了一具已死多年的尸体，身着胸前有白色十字架的黑衣和链甲。尸体的眼睛看起来像被挖了出来。
-
-这时，Walter的手电筒突然黑了，但在一片黑暗之中，尸体仍然清晰可见。他不知怎的能在一片黑暗中“看见”这具尸体的细节。突然他感受到被注视，转过身来时，他看见一个穿着古老的袍子，手指细长，只有一只没有眼皮的眼睛的人向他走来。他在惊恐中逃出下水道，尖叫着在亚历山大城的街上乱跑。
+Alex立刻想要逃离，Daniel站在返回店内的门口，微笑着直视他，问他发生了什么吗？这时Alex才发现Daniel的眼睛和那些动物标本的一样，如同玻璃般空洞。最后Alex推开了Daniel——后者像个沙袋般倒在地上——躲开了那两个货运司机，逃走了。
 
 ##### 事后调查细节
+
+- Daniel Rawlings和MAG 1中渔市小巷的失踪者之一同名同姓，但Not-Sasha积极地自告奋勇前去调查时没有任何发现，她查看了地下室，毫无异常。Jonathan比对了这个Daniel和那个失踪者在网上的照片，除了发型相同外完全不一样。
+- Jonathan闯入了Gertrude的公寓，发现里面的布置非常简单。并且，Gertrude似乎每读完一本书就会将其扔掉。她的书架上的书的封面的眼睛全被剪掉了。John还找到一个笔记本充电器，但没找到笔记本。
+
+##### 评论&猜想
+
+我猜这个Daniel Rawlings就是被“Angler Fish”的诡异实体引诱失踪的失踪者，但是身体被替换了，就像MAG 3的Graham一样（但是Not-Graham是金发而Graham是深色头发）。也许“Angler Fish”可以重塑有机部分而不能改变无机部分。地下室里的那个东西应该就是“Angler Fish”。以及，这个Daniel不停地在抽烟，而在MAG 1中“Angler Fish”引诱人的方式就是讨烟。
+
+
+
+#### E55 Pest Control
+
+##### 日期
+
+- 叙述日期：2016.11.03
+- 事件发生日期：2011/2014 (?)
+
+##### 主要角色/势力
+
+- **Jordan Kennedy**：叙述者。
+- Laura Star：请Jordan Kennedy来驱虫的邻居。
+- **Jane Prentiss**：活体虫巢，已死亡。
+- Arthur Nolan：Jane Prentiss的房东。
+- **John Amherst**：爬满蚂蚁的房子的屋主，被Jordan Kennedy烧了，在MAG 36里经营Ivy Meadows。
+
+
+##### 介绍
+
+本集有关于害虫防治工作人员Jordan Kennedy遇到的与Jane Prentiss有联系的几件事。
+
+第一件事是某天他接到电话，去一间满是蚂蚁的屋子驱虫。他到达那里时发现屋里没人，门把手上有层薄油状的东西。他走进去，发现里面很空，到处爬满了蚂蚁。厨房里有个脏兮兮的冰箱，吸引了很多蚂蚁。他正打算出去放松一下再回来对冰箱进行驱虫，在外面碰到了气冲冲的屋主John Amherst。他全身发黄，生气地掐住了Jordan的脖子把他举起来，情急之下Jordan掏出打火机点燃了他的手臂。他闻到一种很奇怪的烧焦的肉与疾病的味道。
+
+第二件事是他接到一个房东的电话，请他去驱黄蜂。他到现场后，发现一个类似蜂巢的东西，当他把喷枪插入上面的洞中时，那个蜂巢状的东西哀嚎起来，吓得他逃出房间，正好撞上房东。房东把他带到自己的房间，然后自顾自地脱掉衣服，露出胸膛上火焰状的伤痕，随后坐在扶手椅上，划亮一根火柴，从伤痕处点燃了自己。Jordan急忙逃出屋子，此时他又闻到了那种味道。
+
+最后，他去了ECDC工作，在焚烧Jane Prentiss的尸体时，他再次闻到了那种味道。
+
+##### 事后调查细节
+
+- 这个故事说明了还有像Jane Prentiss一样的感染者存在。
+- 蚂蚁屋的屋主就是**John Amherst**，Ivy Meadows疗养院的主管。
+
+
+
+#### E56 Children of the Night
+
+##### 日期
+
+- 叙述日期：2010.07.10
+- 事件发生日期：1982/1996/2009
+
+##### 主要角色/势力
+
+- **Trevor Herbert**：本集和E10的叙述者。
+- Sylvia Macdonald：Trevor杀死的第一个吸血鬼。
+- Alard Dupont：被Trevor误杀的人类。
+- "Stanley Kubrick"：Trevor在流浪者收容所的朋友。
+- Hannah Edwards：被Trevor杀死的吸血鬼。
+- Jane Lewis：被Trevor杀死的吸血鬼。
+- Craig：流浪者收容所的流浪汉。
+
+
+##### 介绍
+
+本集有关于Trevor Herbert的捕猎吸血鬼经历，与MAG 10衔接。他讲述了自己误杀Alard Dupont之事，和在收容所遇到的诡异女人。
+
+Alard是他在收容所的一个朋友的毒贩他以为对方的寡言是吸血鬼的标识，最后在一个夜店后的屋子里砸死了他。
+
+而另一件事是，他在收容所时，发现晚上总是会有一个流浪汉突然起身，收拾好东西，然后离开。接着，一个女人就会进来躺在他空出的床位上。他观察了好几个收容所，都是如此。直到一天晚上，那个女人再来时，他抓住了她。他感受到她试图精神操控他离开，但多年来对付吸血鬼的经验让他意志坚定。女人意识到这方法行不通后立刻逃跑，他追了出去，最后发现那个女人的身体里全是蜘蛛。
+
+##### 事后调查细节
+
+- 所以，Trevor并没在上一份陈述后就死去。Jonathan找不到他的死亡记录。所以他很愤怒地叫来告诉自己，他死掉了的Martin对峙。结果发现Martin所谓的“希望他们不会发现我在说谎”的纸条意思是，他其实是辍学后编造了学历进入的研究所，而不是什么邪恶缘由。
+
+##### 评论&猜想
+
+蜘蛛……这一方势力从前面和后面都可以知道和Raymond有关，已经可以知道蜘蛛拥有操控人心的力量，它们似乎可以披着人皮扮演人类。
+
+Trevor在收容所的那个朋友的描述看起来像Michael Crew，怀疑可能是借刀杀人。但Alard这个名字并没听说过，在FANDOM里也没有超链接。
+
